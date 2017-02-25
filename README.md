@@ -1,6 +1,9 @@
-# -HTML-
-百度前端技术学院作业
 <html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <title>百度前端技术学院作业</title>
+    </head>
+
 <body>
 <h1>文章阅读</h1>
 <p><b>·</b><a href="#">http://www.duwenzhang.com/wenzhang/aiqingwenzhang/shanggan/20170114/366260.html</a></p>
