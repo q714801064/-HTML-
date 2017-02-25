@@ -53,6 +53,7 @@
 <p>侧栏窗口</p>
 <form>
 请输入一个邮箱地址: <input type="text">
+</form>
 </html>
 
 
