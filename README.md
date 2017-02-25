@@ -42,7 +42,7 @@
 <p><b>3.</b>老天爷给了你很多诱惑，却不让你轻易得到。</p>
 </body>
 <body>
-<table border=“1”>
+<table>
 <tr>
 <th>表头</th>
 <th>表头</th>
@@ -56,7 +56,7 @@
 <tr>
 <td>总计</td>
 <td>数字</td>
-<td>&nbsp;</td>
+<td>数字</td>
 </tr>
 </table>
 </body>
