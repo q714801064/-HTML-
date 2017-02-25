@@ -73,7 +73,7 @@
 </form>
 </body>
 <body>
-<form action="save.php" method="post" >
+<form>
     <label>性别:</label>
     <label>男</label>
     <input type="radio" value="1"  name="gender" />
@@ -81,8 +81,35 @@
     <input type="radio" value="2"  name="gender" />
 </form>
 </body>
-
-
-
+<body>
+<form>
+    <label>城市:</label>
+    <select>
+      <option value="南京">南京</option>
+      <option value="天津">天津</option>
+      <option value="武汉">武汉</option>
+      <option value="上海"selected="selected">上海</option>
+    </select>
+</form>
+</body>
+<body>
+<form>
+    <label>爱好:</label>
+    <label>运动</label>
+    <input type="checkbox" value="运动"  name="1" />
+    <label>艺术</label>
+    <input type="checkbox" value="艺术"  name="2" />
+     <label>科学</label>
+    <input type="checkbox" value="科学"  name="3" />
+</form>
+</body>
+<body>
+<form>
+    <label>个人描述：</label>
+    <textarea cols="30" rows="10">在这里输入内容...</textarea>
+    <input type="submit" value="确定提交"  name="submit" />
+</form> 
+</body>
+</html>
 
 
