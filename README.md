@@ -47,7 +47,8 @@
 </tr>
 <tr>
 <td>总计</td>
-<td>数字&nbsp;&nbsp;</td>
+<td>数字</td>
+<td>&nbsp;</td>
 </tr>
 
 </html>
