@@ -26,17 +26,21 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp; 或是寒风料峭，或是身子每况愈下，时序渐近严冬，阵阵寒意从脚底直往上窜，<a href="#">http://ife.baidu.com</a> 我回家从门后取下尘封已久的布鞋，掸掉蛛网，拍去灰尘，穿在脚上，顿觉舒适、温暖，股股暖流遍布全身。穿上布鞋，一桩桩往事涌上心头</p>
 <img src="https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=2091428632,3675219161&fm=23&gp=0.jpg"/>
 </body>
+<body>
 <p><b>·</b>生活随笔</p>
 <p><b>·</b>心情小文</p>
 <p><b>·</b>人生哲理</p>
 <p><img src="https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=1882695155,1634554914&fm=23&gp=0.jpg"/></p>
 <p><img src="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=4065292643,2384829567&fm=23&gp=0.jpg"/></p>
+</body>
+<body>
 <h2>励志文章</h2>
 <h3>成长,就是不断的挣扎与折腾</h3>
 <p>推荐人：budaoweng  时间：2016-07-14 11:21</p>
 <p><b>1.<b>猫喜欢吃鱼，可猫不会游泳。</p>
 <p><b>2.<b>鱼喜欢吃蚯蚓，可鱼又不能上岸。</p>
 <p><b>3.<b>老天爷给了你很多诱惑，却不让你轻易得到。</p>
+</body>
 <p>
 <table border="1">
 <tr>
