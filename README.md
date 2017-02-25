@@ -1,7 +1,7 @@
 # -HTML-
 百度前端技术学院作业
 <h1>文章阅读</h1>
-<b>·</b><a href="#">http://www.duwenzhang.com/wenzhang/aiqingwenzhang/shanggan/20170114/366260.html</a>
+<p>·</p><a href="#">http://www.duwenzhang.com/wenzhang/aiqingwenzhang/shanggan/20170114/366260.html</a>
 <b>·</b><a href="#">http://www.duwenzhang.com/wenzhang/aiqingwenzhang/shanggan/20170114/366260.html</a>
 <b>·</b><a href="#">http://www.duwenzhang.com/wenzhang/aiqingwenzhang/shanggan/20170114/366260.html</a>
 <b>·</b><a href="#">http://www.duwenzhang.com/wenzhang/aiqingwenzhang/shanggan/20170114/366260.html</a>
