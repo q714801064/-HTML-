@@ -62,9 +62,12 @@
 </body>
 <body>
 <form>
-      邮箱：
+    邮箱：
         <input type="text" name="adress"/>	
-	
+    密码：
+       <input type="text" name="sercet"/>
+    重复密码：
+       <input type="text" name="sercet"/>
 </form>
 </body>
 
