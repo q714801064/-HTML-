@@ -50,11 +50,17 @@
 <td>数字</td>
 <td>&nbsp;</td>
 </tr>
+
+
 <p>侧栏窗口</p>
+
 <body>
 <form>
-邮箱：
-   <input type="text" name="adress" value="文本" />
+  姓名：
+  <input type="text" name="myName">
+  <br/>
+  密码：
+  <input type="password" name="pass">
 </form>
 </body>
 
