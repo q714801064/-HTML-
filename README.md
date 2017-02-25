@@ -64,13 +64,23 @@
 <form>
     邮箱：
         <input type="text" name="adress"/>	
+        <br>
     密码：
        <input type="text" name="sercet"/>
+         <br>
     重复密码：
        <input type="text" name="sercet"/>
 </form>
 </body>
-
+<body>
+<form action="save.php" method="post" >
+    <label>性别:</label>
+    <label>男</label>
+    <input type="radio" value="1"  name="gender" />
+    <label>女</label>
+    <input type="radio" value="2"  name="gender" />
+</form>
+</body>
 
 
 
