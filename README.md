@@ -62,7 +62,7 @@
 <br>
 <body>
 <form>
-    邮箱: 
+邮箱: <tr><td>&nbsp;</td></tr>
 	<input type="text" name="adress"/>	
 </form> 
 </body>
