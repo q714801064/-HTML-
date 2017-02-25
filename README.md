@@ -53,15 +53,14 @@
 
 
 <p>侧栏窗口</p>
-
 <body>
-<form>
-  姓名：
-  <input type="text" name="myName">
-  <br/>
-  密码：
-  <input type="password" name="pass">
-</form>
+<form  method="post" action="save.php">
+    账户: 
+	<input type="text" name="myname"/>
+	<br>
+	密码: 
+<input type="password" name="pass">
+</form> 
 </body>
 
 
