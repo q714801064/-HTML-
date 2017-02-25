@@ -51,9 +51,12 @@
 <td>&nbsp;</td>
 </tr>
 <p>侧栏窗口</p>
+<body>
 <form>
-请输入一个邮箱地址: <input type="text">
+邮箱：
+   <input type="text" name="adress" value="文本" />
 </form>
+</body>
 </html>
 
 
