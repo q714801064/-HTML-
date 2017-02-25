@@ -34,6 +34,7 @@
 <p><b>1.<b>猫喜欢吃鱼，可猫不会游泳。</p>
 <p><b>2.<b>鱼喜欢吃蚯蚓，可鱼又不能上岸。</p>
 <p><b>3.<b>老天爷给了你很多诱惑，却不让你轻易得到。</p>
+<p>
 <table border="1">
 <tr>
 <td>表头</td>
@@ -50,16 +51,12 @@
 <td>数字</td>
 <td>&nbsp;</td>
 </tr>
+</p>
 
-
-<p>侧栏窗口</p>
 <body>
-<form  method="post" action="save.php">
-    账户: 
-	<input type="text" name="myname"/>
-	<br>
-	密码: 
-<input type="password" name="pass">
+<form>
+    邮箱: 
+	<input type="text" name="adress"/>	
 </form> 
 </body>
 
