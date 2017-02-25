@@ -44,9 +44,9 @@
 <body>
 <table border=“1”>
 <tr>
-<td>表头</td>
-<td>表头</td>
-<td>表头</td>
+<th>表头</th>
+<th>表头</th>
+<th>表头</th>
 </tr>
 <tr>
 <td>内容</td>
