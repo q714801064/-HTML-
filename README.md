@@ -42,22 +42,33 @@
 <p><b>3.</b>老天爷给了你很多诱惑，却不让你轻易得到。</p>
 </body>
 <body>
-<table border=“1”>
+<table>
+  <tbody>
+    <tr>
+      <th>班级</th>
+      <th>学生数</th>
+      <th>平均成绩</th>
+    </tr>
+    <tr>
+      <td>一班</td>
+      <td>30</td>
+      <td>89</td>
+    </tr>
+    <tr>
+      <td>二班</td>
+      <td>35</td>
+      <td>85</td>
+    </tr>
 <tr>
-<td>表头</td>
-<td>表头</td>
-<td>表头</td>
+    <td>三班</td>
+    <td>32</td>
+    <td>80</td>
 </tr>
-<tr>
-<td>内容</td>
-<td>内容</td>
-<td>内容</td>
-</tr>
-<tr>
-<td>总计</td>
-<td>数字</td>
-<td>&nbsp;</td>
-</tr>
+
+
+
+
+  </tbody>
 </table>
 </body>
 <body>
